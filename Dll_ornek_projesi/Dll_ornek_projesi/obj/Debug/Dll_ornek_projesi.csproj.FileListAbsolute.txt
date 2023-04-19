@@ -1,0 +1,6 @@
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\bin\Debug\Dll_ornek_projesi.dll
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\bin\Debug\Dll_ornek_projesi.pdb
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\obj\Debug\Dll_ornek_projesi.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\obj\Debug\Dll_ornek_projesi.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\obj\Debug\Dll_ornek_projesi.dll
+C:\Users\90505\source\repos\ileri_programlama\dll\Dll_ornek_projesi\Dll_ornek_projesi\obj\Debug\Dll_ornek_projesi.pdb
