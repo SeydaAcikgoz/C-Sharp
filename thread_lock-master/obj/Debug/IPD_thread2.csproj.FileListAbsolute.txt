@@ -1,0 +1,11 @@
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\bin\Debug\IPD_thread2.exe.config
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\bin\Debug\IPD_thread2.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\bin\Debug\IPD_thread2.pdb
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.csproj.SuggestedBindingRedirects.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.Form1.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.Properties.Resources.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread2_lock-master\IPD_thread2_lock-master\obj\Debug\IPD_thread2.pdb
