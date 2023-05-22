@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ileriProgramlamaDilleri_threads", "ileriProgramlamaDilleri_threads.csproj", "{7F0B1FE4-DB0E-4E11-AB38-12589C565D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0B1FE4-DB0E-4E11-AB38-12589C565D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0B1FE4-DB0E-4E11-AB38-12589C565D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0B1FE4-DB0E-4E11-AB38-12589C565D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0B1FE4-DB0E-4E11-AB38-12589C565D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1DB505-ECF5-46E7-B191-B0306E28B3E6}
+	EndGlobalSection
+EndGlobal
