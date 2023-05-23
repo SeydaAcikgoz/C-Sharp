@@ -1,0 +1,11 @@
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\bin\Debug\IPD_thread4_semhapore.exe.config
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\bin\Debug\IPD_thread4_semhapore.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\bin\Debug\IPD_thread4_semhapore.pdb
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.csproj.SuggestedBindingRedirects.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.Form1.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.Properties.Resources.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread4_semhapore-master\IPD_thread4_semhapore-master\obj\Debug\IPD_thread4_semhapore.pdb
