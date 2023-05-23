@@ -1,0 +1,11 @@
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\bin\Debug\IPD_mutex.exe.config
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\bin\Debug\IPD_mutex.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\bin\Debug\IPD_mutex.pdb
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.csproj.SuggestedBindingRedirects.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.Form1.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.Properties.Resources.resources
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.exe
+C:\Users\90505\source\repos\ileri_programlama\thread\IPD_thread3_mutex-master\IPD_thread3_mutex-master\obj\Debug\IPD_mutex.pdb
