@@ -1,0 +1,48 @@
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe.config
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.pdb
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Form1.resources
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Properties.Resources.resources
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.exe
+C:\Users\Burak\Desktop\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.pdb
+J:\Çerçöp\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe.config
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.exe
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.pdb
+J:\Çerçöp\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe
+J:\Çerçöp\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.pdb
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csprojResolveAssemblyReference.cache
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Form1.resources
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Properties.Resources.resources
+J:\Çerçöp\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.GenerateResource.Cache
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe.config
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.pdb
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.AssemblyReference.cache
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Form1.resources
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Properties.Resources.resources
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.GenerateResource.cache
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.CoreCompileInputs.cache
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.exe
+E:\Kutuphane\Bilimsel\Temporary\002 Projeler\002_1 Eski Projeler\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.pdb
+G:\Drive'ım\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe.config
+G:\Drive'ım\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe
+G:\Drive'ım\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.pdb
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.AssemblyReference.cache
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Form1.resources
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Properties.Resources.resources
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.GenerateResource.cache
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.CoreCompileInputs.cache
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.exe
+G:\Drive'ım\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.pdb
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe.config
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.exe
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\bin\Debug\AbdullahThread.pdb
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Form1.resources
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.Properties.Resources.resources
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.exe
+C:\Users\90505\source\repos\isletimSistemleri\AbdullahThread-20231117T104946Z-001\AbdullahThread\AbdullahThread\obj\Debug\AbdullahThread.pdb
