@@ -1,0 +1,15 @@
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\bin\Debug\net8.0\mutex.exe
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\bin\Debug\net8.0\mutex.deps.json
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\bin\Debug\net8.0\mutex.runtimeconfig.json
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\bin\Debug\net8.0\mutex.dll
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\bin\Debug\net8.0\mutex.pdb
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.AssemblyInfoInputs.cache
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.AssemblyInfo.cs
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.sourcelink.json
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.dll
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\refint\mutex.dll
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.pdb
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\mutex.genruntimeconfig.cache
+C:\Users\90505\source\repos\isletimSistemleri\mutex\mutex\obj\Debug\net8.0\ref\mutex.dll
