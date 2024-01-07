@@ -1,0 +1,10 @@
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\bin\Debug\211229001_Şeyda_Açıkgöz.exe.config
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\bin\Debug\211229001_Şeyda_Açıkgöz.exe
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\bin\Debug\211229001_Şeyda_Açıkgöz.pdb
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\211229001_Şeyda_Açıkgöz.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\_211229001_Şeyda_Açıkgöz.Properties.Resources.resources
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\211229001_Şeyda_Açıkgöz.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\211229001_Şeyda_Açıkgöz.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\211229001_Şeyda_Açıkgöz.exe
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\211229001_Şeyda_Açıkgöz.pdb
+C:\Users\90505\source\repos\isletimSistemleri\211229001_Şeyda_Açıkgöz\211229001_Şeyda_Açıkgöz\obj\Debug\_211229001_Şeyda_Açıkgöz.Form1.resources
